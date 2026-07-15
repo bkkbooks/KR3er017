@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er017/v1
 canonical_location: https://kanripo.org/bkk/KR3er017/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金匱鉤玄
   identifiers:
@@ -17,15 +17,15 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3er017_001.yaml, hash: 'sha256:c2e47eb208aeca80ff81e8dde8ef959e9af763367ab79177b36027844d6b4492'}
-  - {seq: 2, filename: KR3er017_002.yaml, hash: 'sha256:ce3c9c7c1138b3dff19ad3cea5455a93baf50cf3d81c803344464b957442c133'}
-  - {seq: 3, filename: KR3er017_003.yaml, hash: 'sha256:caae3253c8584ff7d831047271a2c5c86f76df6ae5e020a82b4ecf8a9dd8fb05'}
-  - {seq: 0, filename: KR3er017_000.yaml, hash: 'sha256:d5203ac0d7d6bd79cb65fa42ab3aa7a3384f6cd75c07d63cbb2e0cb9492a6067'}
+  - {seq: 1, filename: KR3er017_001.yaml, hash: 'sha256:b2ea8662dce2623462aa07005e8c872a3797af7928861c6f97296ddc2cee599b'}
+  - {seq: 2, filename: KR3er017_002.yaml, hash: 'sha256:67b16946a33e40ae7cdab13343cd3b000fbfe7d50348a0a2caad40b0d6761628'}
+  - {seq: 3, filename: KR3er017_003.yaml, hash: 'sha256:41ad794db87dff043148a544f612189faeae0b38b22275458b1f2bd81044f855'}
+  - {seq: 0, filename: KR3er017_000.yaml, hash: 'sha256:ebe04e169a66baae4c7f43f424613faa181794f32771a64e6a06e671bf6ebd36'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3er017_001.markers.yaml, hash: 'sha256:d6dddb1931f6e653203299acfec36056c93860517788a3e18064b2711aee5eea'}
-  - {seq: 2, role: markers, filename: assets/KR3er017_002.markers.yaml, hash: 'sha256:0f7b08dae2f36d5a19be3ba3d6484e2946ffa4dbcdd95a2fdd82d1aee15bdc57'}
-  - {seq: 3, role: markers, filename: assets/KR3er017_003.markers.yaml, hash: 'sha256:a12a50e788eada259909c9f82a2dfb4ca1890f025746e5c4c9c2f5ee62784e05'}
-  - {seq: 0, role: markers, filename: assets/KR3er017_000.markers.yaml, hash: 'sha256:08f26710874deb3a5bfd7aa32e0a24db57cb97a01ad8e6ef417ad152188c28ef'}
+  - {seq: 1, role: markers, filename: assets/KR3er017_001.markers.yaml, hash: 'sha256:218706d4cc33d62a3629e918a9ddef7c194cb32581c201bb5c141f9c1e233e34'}
+  - {seq: 2, role: markers, filename: assets/KR3er017_002.markers.yaml, hash: 'sha256:78ad536eebb54cb4c88da9606bfb397fce474e406959264b1dd2091f44b6e64c'}
+  - {seq: 3, role: markers, filename: assets/KR3er017_003.markers.yaml, hash: 'sha256:6350ef10584333c5b61910e68aae869508b074449d8175a5a32bd66bfbb1929d'}
+  - {seq: 0, role: markers, filename: assets/KR3er017_000.markers.yaml, hash: 'sha256:19a287b5b232b455435bb25bec803b82caf408f44f5b2caac7abc70ba8912c45'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1527,4 +1527,7 @@ table_of_contents:
   label: 六泄瀉從濕治有多法
   type: section
   level: 2
-hash: sha256:6550229c8b14fd8cace05988dc4de672ceee310c9250766b219317256804ee76
+hash: sha256:10f9cd5fd44893d55fb0ed2d9a09df04ea15fd2da486d719017dca4418d87f25
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
