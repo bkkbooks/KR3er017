@@ -22,10 +22,10 @@ assets:
   - {seq: 3, filename: KR3er017_003-jc.yaml, hash: 'sha256:caae3253c8584ff7d831047271a2c5c86f76df6ae5e020a82b4ecf8a9dd8fb05'}
   - {seq: 0, filename: KR3er017_000-jc.yaml, hash: 'sha256:d5203ac0d7d6bd79cb65fa42ab3aa7a3384f6cd75c07d63cbb2e0cb9492a6067'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3er017_001-jc.markers.yaml, hash: 'sha256:ad593a12fc9da109e8effeef70db40cf920026e255bd747cf3669c0587b400a0'}
-  - {seq: 2, role: markers, filename: assets/KR3er017_002-jc.markers.yaml, hash: 'sha256:66d7cec1cab7e3eac42856dfd181bb1e4fd29f867be795fc13df1bfd18bd4bda'}
-  - {seq: 3, role: markers, filename: assets/KR3er017_003-jc.markers.yaml, hash: 'sha256:d2e9a493f73b2fa7b36d999f50ab8ea96f858fc4d7c1c2a85b9ab0a991213ef8'}
-  - {seq: 0, role: markers, filename: assets/KR3er017_000-jc.markers.yaml, hash: 'sha256:c5a9102d8ee2703be12c975fcb3547e24c22a2a360620fac832e25e069c02574'}
+  - {seq: 0, role: markers, filename: assets/KR3er017_000-jc.markers.yaml, hash: 'sha256:1bdb81a3cf0217895298023430bc636540e4dea7198c5ff40ccc26f27f117892'}
+  - {seq: 1, role: markers, filename: assets/KR3er017_001-jc.markers.yaml, hash: 'sha256:3634bf22e4df4933282ec1e0b75abc12b6a813d24b5308c1f85d1bfea0714b80'}
+  - {seq: 2, role: markers, filename: assets/KR3er017_002-jc.markers.yaml, hash: 'sha256:abc9ec701f60e458da981b22bf9a6b31c9264d57a28631ae8a3dff9990deb632'}
+  - {seq: 3, role: markers, filename: assets/KR3er017_003-jc.markers.yaml, hash: 'sha256:b1c4f8d0247ad196106152993001994d4954c2aae8e5c3e71cef8b7651ab14dc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1527,4 +1527,4 @@ table_of_contents:
   label: 六泄瀉從濕治有多法
   type: section
   level: 2
-hash: sha256:274c75a4b584cf73a17c0ed54d2d247ddf442a898c30071ca8d66ed8e933f12e
+hash: sha256:19f1a0298e14420ab91df55f51542d4b8b7c119f008eabb873a1515ffdf298cc
